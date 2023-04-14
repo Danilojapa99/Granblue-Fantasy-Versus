@@ -2,6 +2,10 @@ body {
     font-family: 'poppins';
 }
 
+html,body {
+    height:100%;
+    overflow-y: hidden;
+}
 .cabecalho2 {
     display: flex;
     justify-content:
